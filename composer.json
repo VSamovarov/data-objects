@@ -1,5 +1,5 @@
 {
-	"name": "Sam/data-objects",
+	"name": "VSamovarov/data-objects",
 	"require": {
 		"php": "^8.2",
 		"illuminate/support": "^12.0"
