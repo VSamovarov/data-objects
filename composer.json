@@ -1,5 +1,5 @@
 {
-	"name": "your-vendor/data-objects",
+	"name": "Sam/data-objects",
 	"require": {
 		"php": "^8.2",
 		"illuminate/support": "^12.0"
@@ -11,7 +11,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Sam\\DataObjects\\": "src/"
+			"Sam\\DataObjects\\": "/"
 		}
 	},
 	"extra": {
